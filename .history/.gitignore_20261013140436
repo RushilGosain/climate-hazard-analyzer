@@ -1,0 +1,24 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node.js and Vite
+node_modules/
+dist/
+frontend/.env.local
+frontend/.env.production.local
+
+# OS and editor files
+.DS_Store
+.vscode/
+
+# Logs
+*.log

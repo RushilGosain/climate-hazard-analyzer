@@ -6,6 +6,7 @@ Users can search for a location, select a point on the map or a latitude/longitu
 
 **Live Demo:** https://climate-hazard-analyzer-one.vercel.app/  
 **Backend API:** https://climate-hazard-analyzer-api.onrender.com/api/health 
+
 **GitHub:** https://github.com/RushilGosain/climate-hazard-analyzer
 
 ## Features
